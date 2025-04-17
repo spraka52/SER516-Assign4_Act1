@@ -1,7 +1,5 @@
 package edu.asu.assign4.rest.grocery.model;
 
-import org.springframework.http.ResponseEntity;
-
 // This version will manually construct the bean with no annotation help
 public class GroceryItem {
 
